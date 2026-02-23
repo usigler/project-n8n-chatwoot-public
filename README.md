@@ -2,6 +2,14 @@
 
 This project implements the complete infrastructure to host N8N and Chatwoot applications on AWS using Terraform with modular architecture.
 
+## What are N8N and Chatwoot?
+
+**N8N** is an open-source workflow automation platform that allows you to connect different applications and services to automate tasks. Think of it as a tool that can automatically perform actions when certain events occur - like sending notifications, processing data, or integrating multiple systems without writing code.
+
+**Chatwoot** is an open-source customer support platform that centralizes communication channels (website chat, email, social media) into a single interface. It enables teams to manage customer conversations efficiently with features like automated responses, team collaboration, and conversation history.
+
+Together, these tools can create powerful automation workflows for customer service, such as automatically routing messages, creating tickets, sending notifications, and integrating with other business systems.
+
 ## Architecture
 
 ### Applications
