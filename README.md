@@ -29,7 +29,7 @@ Together, these tools can create powerful automation workflows for customer serv
 - **WAF**: Web attack protection
 - **VPC**: Isolated network with public and private subnets
 
-## Estrutura de Arquivos
+## Infrastructure Files
 
 ```
 project-n8n-chatwoot/
